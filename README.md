@@ -1,6 +1,6 @@
 <div align="center">
 
-# Denis Cantero 🇵🇾
+# Denis Ricardo Cantero Prieto 🇵🇾
 
 ### Construyo páginas web, automatizaciones y sistemas digitales para negocios reales.
 
