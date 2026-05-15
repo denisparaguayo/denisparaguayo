@@ -114,9 +114,9 @@ Trabajo para generar resultados, no solo algo lindo.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denisparaguayo&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denisparaguayo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisparaguayo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisparaguayo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
